@@ -6,6 +6,8 @@
 ## Build Setup
 
 ``` bash
+Clonar el proyecto en su equipo local
+
 # install dependencies
 npm install
 
